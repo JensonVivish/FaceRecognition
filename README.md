@@ -17,16 +17,6 @@ This README will walk you through the whole process — from encoding faces to r
 
 ---
 
-## 📁 Folder Structure
-
-
-project/
-│
-├── known_faces/           # Add known person images here (JPEG/PNG only please)
-├── face.py    # Main execution file
-├── encode_faces.py        # Script to encode faces and save to .pkl
-├── encodings.pkl          # Stores encoded face data
-├── README.md              # You’re reading this!
 
 ## Requirements
 
