@@ -41,5 +41,5 @@ imutils>=0.5
 deep_sort_realtime>=1.3
 filterpy>=1.4
 
-<pre> ``` pip install setuptools>=65.0.0 opencv-python>=4.5.5 face_recognition>=1.3.0 dlib>=19.22 numpy>=1.19 scikit-learn>=0.24 scipy>=1.5 imutils>=0.5 deep_sort_realtime>=1.3 filterpy>=1.4``` </pre>
+<pre>  pip install setuptools>=65.0.0 opencv-python>=4.5.5 face_recognition>=1.3.0 dlib>=19.22 numpy>=1.19 scikit-learn>=0.24 scipy>=1.5 imutils>=0.5 deep_sort_realtime>=1.3 filterpy>=1.4 </pre>
 
