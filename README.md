@@ -28,7 +28,7 @@ project/
 ├── encodings.pkl          # Stores encoded face data
 ├── README.md              # You’re reading this!
 
-#Requirements
+## Requirements
 
 setuptools>=65.0.0
 opencv-python>=4.5.5
